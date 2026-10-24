@@ -21,7 +21,6 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-
 ## Reproduce the studies
 
 Commands below run from the repository root. Each study produces `metrics.csv`;
