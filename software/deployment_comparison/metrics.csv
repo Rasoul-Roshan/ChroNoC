@@ -1,0 +1,15 @@
+dataset,method,synthetic_demo,neural_replay_verified,mean_frame_cycles,mean_inference_communication_cycles,memory_bits,compile_seconds
+ucihar,DARSA,False,False,354.0,46090.51170682049,48396,5.83526962399992
+ucihar,DARSA_immediate,False,False,885.0,115226.27926705124,94368,5.83526962399992
+ucihar,jin_tdm,False,False,472.0,61454.01560909399,58992,1.2656172039996818
+ucihar,xiao_tdm,False,False,472.0,61454.01560909399,58952,17.914957753999715
+ucihar,neumap_tdm,False,False,944.0,122908.03121818799,97728,6.518885408999722
+ucihar,spinemap_tdm,False,False,944.0,122908.03121818799,97268,1.6253441399999247
+ucihar,sneap_tdm,False,False,944.0,122908.03121818799,97788,1.297437096000067
+nmnist,DARSA,False,False,413.0,127378.8642,53046,5.755191307000587
+nmnist,DARSA_immediate,False,False,767.0,236560.7478,83668,5.755191307000587
+nmnist,jin_tdm,False,False,472.0,145575.8448,58692,1.1969949660001475
+nmnist,xiao_tdm,False,False,472.0,145575.8448,58812,10.597940043000108
+nmnist,neumap_tdm,False,False,944.0,291151.6896,98008,5.690210749000471
+nmnist,spinemap_tdm,False,False,944.0,291151.6896,97928,1.5273099169999114
+nmnist,sneap_tdm,False,False,944.0,291151.6896,97508,1.2432015940003112
