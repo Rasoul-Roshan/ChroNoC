@@ -1,0 +1,39 @@
+Startpoint: slot[4] (input port clocked by slot_reference)
+Endpoint: control[11] (output port clocked by slot_reference)
+Path Group: slot_reference
+Path Type: max
+
+Fanout     Cap    Slew   Delay    Time   Description
+-----------------------------------------------------------------------------
+                  0.00    0.00    0.00   clock slot_reference (rise edge)
+                          0.00    0.00   clock network delay (ideal)
+                          0.00    0.00 ^ input external delay
+    69    0.16    0.20    0.00    0.00 ^ slot[4] (in)
+                                         slot[4] (net)
+                  0.20    0.00    0.00 ^ _331_/A (sky130_fd_sc_hd__clkinv_1)
+    23    0.05    0.38    0.37    0.37 v _331_/Y (sky130_fd_sc_hd__clkinv_1)
+                                         _135_ (net)
+                  0.38    0.00    0.37 v _626_/A (sky130_fd_sc_hd__nor4b_1)
+     1    0.00    0.22    0.37    0.74 ^ _626_/Y (sky130_fd_sc_hd__nor4b_1)
+                                         _217_ (net)
+                  0.22    0.00    0.74 ^ _627_/C1 (sky130_fd_sc_hd__a2111oi_0)
+     1    0.00    0.11    0.09    0.83 v _627_/Y (sky130_fd_sc_hd__a2111oi_0)
+                                         _219_ (net)
+                  0.11    0.00    0.83 v _630_/A2 (sky130_fd_sc_hd__o32ai_1)
+     1    0.02    0.71    0.65    1.48 ^ _630_/Y (sky130_fd_sc_hd__o32ai_1)
+                                         control[11] (net)
+                  0.71    0.00    1.48 ^ control[11] (out)
+                                  1.48   data arrival time
+
+                  0.00  100.00  100.00   clock slot_reference (rise edge)
+                          0.00  100.00   clock network delay (ideal)
+                          0.00  100.00   clock reconvergence pessimism
+                          0.00  100.00   output external delay
+                                100.00   data required time
+-----------------------------------------------------------------------------
+                                100.00   data required time
+                                 -1.48   data arrival time
+-----------------------------------------------------------------------------
+                                 98.52   slack (MET)
+
+

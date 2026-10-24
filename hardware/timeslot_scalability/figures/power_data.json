@@ -1,0 +1,56 @@
+{
+  "decision": [
+    {
+      "slots": 16,
+      "total_power_uW": 5.149145181,
+      "sequential_power_uW": 0.0
+    },
+    {
+      "slots": 32,
+      "total_power_uW": 7.237806585,
+      "sequential_power_uW": 0.0
+    },
+    {
+      "slots": 64,
+      "total_power_uW": 10.90139267,
+      "sequential_power_uW": 0.0
+    },
+    {
+      "slots": 128,
+      "total_power_uW": 18.01732287,
+      "sequential_power_uW": 0.0
+    },
+    {
+      "slots": 256,
+      "total_power_uW": 29.82207116,
+      "sequential_power_uW": 0.0
+    }
+  ],
+  "switch": [
+    {
+      "slots": 16,
+      "total_power_uW": 1343.91,
+      "sequential_power_uW": 1112.849801
+    },
+    {
+      "slots": 32,
+      "total_power_uW": 1357.709407,
+      "sequential_power_uW": 1121.4631379999998
+    },
+    {
+      "slots": 64,
+      "total_power_uW": 1370.952814,
+      "sequential_power_uW": 1124.284347
+    },
+    {
+      "slots": 128,
+      "total_power_uW": 1380.201313,
+      "sequential_power_uW": 1129.7637829999999
+    },
+    {
+      "slots": 256,
+      "total_power_uW": 1394.4448439999999,
+      "sequential_power_uW": 1133.493497
+    }
+  ]
+}

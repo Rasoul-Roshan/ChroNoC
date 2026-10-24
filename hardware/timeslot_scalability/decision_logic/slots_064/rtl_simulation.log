@@ -1,0 +1,4 @@
+MEASURE_START_PS 25601000
+VCD info: dumpfile raw.vcd opened for output.
+MEASURE_END_PS 230401000
+PASS: all 2048 measured slot configurations checked

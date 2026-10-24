@@ -1,0 +1,5 @@
+MEASURE_START_PS 26140000
+VCD info: dumpfile raw.vcd opened for output.
+MEASURE_END_PS 230940000
+PASS: all 2048 measured slot configurations checked; 20480 clock cycles
+/home/rasvm/LibreLane/V4/switch_scalability_100mhz/generated/slots_128/tb.sv:103: $finish called at 230940000 (1ps)

@@ -1,0 +1,17 @@
+{
+  "timeslots": [
+    16,
+    32,
+    64,
+    128,
+    256
+  ],
+  "slot_period_ns": 100,
+  "measured_slots": 2048,
+  "warmup_slots": 256,
+  "input_transition_ns": 0.2,
+  "output_load_pf": 0.02,
+  "coverage_min_percent": 95,
+  "pvt": "TT, 25 C, 1.8 V",
+  "analysis": "post-synthesis, functional gate-level VCD, no SDF or routed parasitics"
+}
