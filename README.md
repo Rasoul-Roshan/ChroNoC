@@ -43,8 +43,8 @@ Please cite the accompanying paper when using this repository.
 @misc{roshanshah2026chronoc,
   author = {Roshanshah, Mohammad Rasoul and Modarressi, Mehdi and Safari, Saeed},
   title  = {ChroNoC: A Tableless TDM Circuit-Switched NoC With Delay-Aware Deployment for Time-Sensitive Neuromorphic Computing},
-  journal = {arXiv preprint arXiv:[arXiv_ID]},
+  journal = {arXiv preprint arXiv:2610.34083},
   year   = {2026},
-  url    = {[Link to arXiv paper]}
+  url    = {https://doi.org/10.48550/arXiv.2610.34083}
 }
 ```
