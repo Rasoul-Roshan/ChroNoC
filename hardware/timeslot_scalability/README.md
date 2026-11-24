@@ -19,3 +19,4 @@ Both studies use prefixes of the same nonrepeating configuration sequence.
 - `metadata/`: analysis settings.
 - `figures/`: the relative-power figure and its numeric data. 
 
+![ChroNoC post-route view](layout/chronoc.png)
