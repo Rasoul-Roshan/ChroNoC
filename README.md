@@ -10,7 +10,7 @@ with prescribed axonal delays.
 
 | Directory | Contents |
 | --- | --- |
-| [hardware](hardware/) | Switch and mesh implementation results |
+| [hardware](hardware/) | Switch and NoC implementation results |
 | [software](software/) | deployment framework studies |
 
 ## Setup
