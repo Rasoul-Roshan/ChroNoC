@@ -4,6 +4,8 @@ Companion implementation for **ChroNoC**, a tableless TDM network-on-chip,
 and **Deadline-Aware Spatial Annealing (DARSA)** for single-spike neural workloads
 with prescribed axonal delays.
 
+![ChroNoC workflow](assets/pipeline.png)
+
 ## Repository
 
 | Directory | Contents |
