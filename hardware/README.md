@@ -1,8 +1,7 @@
 # Hardware
 
 Synthesizable Verilog-2001 for the fixed-path TDM switch and 4x4, 64-slot reference
-mesh; SystemVerilog testbenches provide self-checking smoke tests.
-
+mesh; SystemVerilog testbench provide high-observability self-checking test scenarios.
 
 ## Physical implementation results
 
