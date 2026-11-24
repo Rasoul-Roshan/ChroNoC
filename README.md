@@ -11,7 +11,7 @@ with prescribed axonal delays.
 | Directory | Contents |
 | --- | --- |
 | [hardware](hardware/) | Switch and NoC implementation results |
-| [software](software/) | deployment framework studies |
+| [software](software/) | Deployment framework studies |
 
 ## Setup
 
